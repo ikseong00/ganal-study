@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ganal.iml" filepath="$PROJECT_DIR$/.idea/ganal.iml" />
       <module fileurl="file://$PROJECT_DIR$/hongjun/hongjun.iml" filepath="$PROJECT_DIR$/hongjun/hongjun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seoyeon.iml" filepath="$PROJECT_DIR$/seoyeon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seoyeon.main.iml" filepath="$PROJECT_DIR$/.idea/modules/seoyeon.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seoyeon.test.iml" filepath="$PROJECT_DIR$/.idea/modules/seoyeon.test.iml" />
     </modules>
   </component>
 </project>
