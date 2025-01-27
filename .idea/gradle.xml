@@ -4,14 +4,14 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/haneul" />
-        <option name="gradleHome" value="" />
-        <option name="gradleJvm" value="openjdk-22" />
-      </GradleProjectSettings>
-      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/seoyeon" />
         <option name="gradleHome" value="" />
         <option name="gradleJvm" value="openjdk-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/seoyeon" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>

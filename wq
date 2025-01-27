@@ -1,0 +1,105 @@
+[33mcommit 9bdaeabcfe8e5a86b0d13b7c4b6f93942559ae04[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: af52c5b d459d59
+Author: yeonzeop <ksp2617@naver.com>
+Date:   Sun Jan 26 15:07:07 2025 +0900
+
+    Merge branch 'main' of https://github.com/ikseong00/ganal-study
+
+[33mcommit af52c5b02ef09419074f2d64f92270fe88ee7ff8[m
+Author: yeonzeop <ksp2617@naver.com>
+Date:   Sun Jan 26 15:05:58 2025 +0900
+
+    숫자 POP
+
+[33mcommit d459d59791a248323ab3ef06297e32a19ca2ba73[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0a4c5f8 1790abf
+Author: sskkyy0 <zxzxzxzxzxzxzz@naver.com>
+Date:   Sun Jan 26 14:36:38 2025 +0900
+
+    hi
+
+[33mcommit 0a4c5f8e98ac20239c5e8ca74fd5bc99d9e8c165[m
+Author: sskkyy0 <zxzxzxzxzxzxzz@naver.com>
+Date:   Sun Jan 26 14:30:47 2025 +0900
+
+    haneul
+
+[33mcommit 1790abf8df256d68e13c6640f3808dc89d7ed9fc[m
+Author: ikseong00 <127182222+ikseong00@users.noreply.github.com>
+Date:   Sun Jan 26 14:23:27 2025 +0900
+
+    Create .gitignore
+
+[33mcommit 02d8f30eb76b12255cf50a513c01b0572f0f720f[m
+Merge: 9796088 258f5cb
+Author: yeonzeop <ksp2617@naver.com>
+Date:   Sun Jan 26 14:18:55 2025 +0900
+
+    resolve conflict
+
+[33mcommit 9796088c24ce8ea927713da9e252d19cc6c590be[m
+Author: yeonzeop <ksp2617@naver.com>
+Date:   Sun Jan 26 14:17:47 2025 +0900
+
+    bug fixed
+
+[33mcommit 779c17cfa400898781dcfdc5611508f0bfab107a[m
+Author: yeonzeop <ksp2617@naver.com>
+Date:   Sun Jan 26 14:14:16 2025 +0900
+
+    새로운 모듈 생성
+
+[33mcommit 258f5cb4e5def097a46f4f900868194bb9c21ced[m
+Author: choihongjun <vvclsbalam@gmail.com>
+Date:   Fri Jan 24 23:39:08 2025 +0900
+
+    commit algorithm
+
+[33mcommit e2ecd7e88e33ef9e82268c6222dfaf63b8894d2e[m
+Author: choihongjun <vvclsbalam@gmail.com>
+Date:   Fri Jan 24 23:31:08 2025 +0900
+
+    test..
+
+[33mcommit d3db5d3692b272bb16231e13065e66c783737066[m
+Author: yeonzeop <ksp2617@naver.com>
+Date:   Thu Jan 16 14:42:24 2025 +0900
+
+    good
+
+[33mcommit 02dacaf017fbef9b5b77d4d7b9efaf09853ed57b[m
+Author: leejaina <leejaina@konkuk.ac.kr>
+Date:   Sun Jan 12 01:14:20 2025 +0900
+
+    Fix typo
+
+[33mcommit de89dbc7c5f9dc5040c5ed7d541475a564a8e229[m
+Author: leejaina <leejaina@konkuk.ac.kr>
+Date:   Sun Jan 12 01:06:44 2025 +0900
+
+    Fix typo
+
+[33mcommit 3a45348b58409d3584c11c8eb5e9dd258d2d0f2b[m
+Author: phonotactics <vvclsbalam@gmail.com>
+Date:   Sat Jan 11 22:46:56 2025 +0900
+
+    test3
+
+[33mcommit d8652915b2b4a41c4d9bd013f48159916ff2d440[m
+Merge: 28b8b8a 0ca64bf
+Author: IKSEONGKU <127182222+IKSEONGKU@users.noreply.github.com>
+Date:   Sat Jan 11 21:49:08 2025 +0900
+
+    Merge branch 'main' of https://github.com/ikseong00/ganal-study
+
+[33mcommit 28b8b8a80edcf61f880fe9dbcc55d5027a58916e[m
+Author: IKSEONGKU <127182222+IKSEONGKU@users.noreply.github.com>
+Date:   Sat Jan 11 21:46:25 2025 +0900
+
+    init
+
+[33mcommit 0ca64bfb34346c2d85a4e353f1f77a6051df6093[m
+Author: ikseong00 <127182222+ikseong00@users.noreply.github.com>
+Date:   Sat Jan 11 21:45:40 2025 +0900
+
+    Initial commit
