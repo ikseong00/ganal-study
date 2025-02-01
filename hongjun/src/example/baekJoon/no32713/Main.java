@@ -27,30 +27,32 @@ public class Main {
 
     // 최대 연속길이 찾기
     private static int findMax(int[] arr, int deleteCount) {
-        int max = 0;
+        int max = 1;
 
         if (deleteCount != 0) {
-            recursiveFor(0, deleteCount, arr);
-        } else {
-            findContinuousLength(arr); // deleteCount == 0
-        }
+            for (int i = 0; i < arr.length; i++) {
+                int len = 1;
+                int count = deleteCount;
 
+                if (arr[i] == arr[i+1]) {
+                    len++;
+                } else if (arr[i] == arr[i+2]) {
+                    len++;
+                    count--;
+                    if (count == 0) {
+                        break;
+                    }
+                }
 
-        return max;
-    }
-
-    private static void recursiveFor(int recursiveCount, int deleteCount, int[] arr) {
-        recursiveCount++;
-        if (recursiveCount > deleteCount) {
-            return;
-        }
-        for (int i = 0; i < deleteCount; i++) {
-            for (int j = 0; j <= arr.length - deleteCount; j++) {
-                for (int k = j+1; k < arr.length; k++) {
-                    for (int l = k+1; l < arr.length; l++) {}
+                if (len > max) {
+                    max = len;
                 }
             }
+        } else {
+            max = findContinuousLength(arr); // deleteCount == 0
         }
+
+        return max;
     }
 
     // 연속길이 구하기

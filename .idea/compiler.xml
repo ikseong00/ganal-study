@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="haneul" target="22" />
+      <module name="haneul.main" target="22" />
+      <module name="haneul.test" target="22" />
       <module name="seoyeon" target="22" />
       <module name="seoyeon.main" target="22" />
       <module name="seoyeon.test" target="22" />
